@@ -1,0 +1,14 @@
+[
+    {
+        "package": "gpttools",
+        "url": "https://github.com/JamesHWade/gpttools"
+    },
+    {
+        "package": "gptstudio",
+        "url": "https://github.com/MichelNivard/gptstudio"
+    },
+    {
+        "package": "measure",
+        "url": "https://github.com/JamesHWade/measure"
+    }
+]
