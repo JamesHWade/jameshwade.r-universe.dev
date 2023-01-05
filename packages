@@ -1,14 +1,20 @@
 [
     {
         "package": "gpttools",
-        "url": "https://github.com/JamesHWade/gpttools"
+        "url": "https://github.com/JamesHWade/gpttools",
+        "branch": "main",
+        "available": true
     },
     {
         "package": "gptstudio",
-        "url": "https://github.com/MichelNivard/gptstudio"
+        "url": "https://github.com/MichelNivard/gptstudio",
+        "branch": "main",
+        "available", "true
     },
     {
         "package": "measure",
-        "url": "https://github.com/JamesHWade/measure"
+        "url": "https://github.com/JamesHWade/measure",
+        "branch": "main",
+        "available", "true
     }
 ]
