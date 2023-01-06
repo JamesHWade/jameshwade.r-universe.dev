@@ -9,12 +9,12 @@
         "package": "gptstudio",
         "url": "https://github.com/MichelNivard/gptstudio",
         "branch": "main",
-        "available", true
+        "available": true
     },
     {
         "package": "measure",
         "url": "https://github.com/JamesHWade/measure",
         "branch": "main",
-        "available", true
+        "available": true
     }
 ]
